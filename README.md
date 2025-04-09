@@ -2,26 +2,26 @@
 {
   "0":{
   "id":"1",
-  "name":"MUZANGALA TV",
+  "name":"RASD TV",
   "description":"1501",
-  "live_url":"https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w1857134445.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTEwMzA1NThf/muzangalatv.jpeg",
+  "live_url":"https://cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTYzMjkxNDZf/rasdtv.jpeg",
   "categorie":"SPORTS"
   },
   "1":{
   "id": "2",
-  "name": "TVI AFRICA",
+  "name": "RASD TV 2",
   "description": "1502",
-  "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+  "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12830",
+  "thumbnail": "https://od.lk/s/M18yOTYzMjkxNDZf/rasdtv.jpeg",
   "categorie": "SPORTS"
   },
   "2":{
   "id": "3",
-  "name": "KK TV",
+  "name": "RASD TV 3",
   "description": "1503",
-  "live_url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/M18yOTM1NjYzODBf/kktv.jpg",
+  "live_url": "ttps://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv2.m3u8",
+  "thumbnail": "https://od.lk/s/M18yOTYzMjkxNDZf/rasdtv.jpeg",
   "categorie": "SPORTS"
   }
 }
